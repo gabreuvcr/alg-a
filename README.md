@@ -1,2 +1,2 @@
 # Álgebra A
-Trabalhos da matéria Álgebra A - 2018/2.
+Trabalhos de Álgebra A - 2018/2.
